@@ -1,0 +1,6 @@
+Hamster Template
+
+This is a template for the report generation of the project hamster applet.
+It is enhanced and generates total times on the "Activity Log" tab.
+
+Just copy it to ~/.local/share/hamster-applet/
